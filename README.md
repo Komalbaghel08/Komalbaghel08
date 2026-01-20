@@ -19,9 +19,8 @@
 
 ## 👩‍💻 About Me
 - 🎓 **B.Tech CSE – RGPV University**
-- 💻 Frontend developer: **HTML, CSS, JavaScript, React**
-- ⚙️ Backend & APIs: **Django REST API**
-- 🌐 Interested in **Web Development & Backend APIs**
+- 💻 Frontend & Python Full Stack Developer
+- 🌐 Interested in Web Development
 - 🧠 Curious mind, consistent learner
 
 ---
