@@ -22,6 +22,7 @@
 - 💻 Frontend & Python Full Stack Developer
 - 🌐 Interested in Web Development
 - 🧠 Curious mind, consistent learner
+- 📫 Email: baghelkomal512@gmail.com
 
 ---
 
